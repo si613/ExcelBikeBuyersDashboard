@@ -108,6 +108,9 @@ The professional occupation (31%) occupies the highest percentage of bike buyers
 
 The 0-1 miles category has the highest count, crossing the 350 counts. The other categories remain roughly stable below 200, with the 10+ miles category dipping to 111 counts at the lowest.
 
+## Challenges:
+No significant challenges were faced during this project as the dataset was relatively small and could be managed and manipulated in Excel without any lags. The data analysis toolkit had to be enabled to create a correlation heatmap for variables. On similar lines, the pair plot had to be manually made using scatterplots, which proved to be time-consuming compared to using Python or R, thus highlighting the limitations of Excel analysis and visualisations.
+
 ## Conclusion:
 
 Single individuals, particularly single women and married men emerge as more likely buyers, while the married segment shows a lower inclination. Income plays a pivotal role; notably, the lower middle-income category exhibits the highest likelihood of making such purchases. Age-wise, adults dominate the buyer demographic, while seniors contribute the least. Regional trends indicate North America as the primary market for bikes. Factors like occupation and commute distance also play discernible roles in shaping purchasing behaviour. These insights, derived from comprehensive visualizations and correlations, provide valuable guidance for targeted marketing strategies and business decisions in the bike industry.
