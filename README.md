@@ -40,7 +40,7 @@ Mode/Most Frequent Value representing the central or typical value in the column
 |High|$100,001 +|
 
 
-|**Age Category**|**Age**|
+|**Age**|**Age Category**|
 | - | - |
 |25-34|Young Adult|
 |35-49|Adult|
